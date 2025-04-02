@@ -14,7 +14,7 @@ Este é um projeto de uma **calculadora simples** feita em C. Ele permite ao usu
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/calculadora-simples.git
+    git clone https://github.com/gitomacelli/calculadora-simples.git
     ```
 
 2. **Compilar o código**:
